@@ -1,0 +1,2 @@
+# SandrasPaintings
+Minecraft resourcepack
